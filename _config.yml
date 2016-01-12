@@ -141,7 +141,7 @@ scroll_to_more: true
 
 # Automatically Excerpt
 auto_excerpt:
-  enable: true
+  enable: true  
   length: 150
 
 # Use Lato font
@@ -158,13 +158,13 @@ mathjax:
 
 
 # Swiftype Search API Key
-#swiftype_key:
+swiftype_key: nJthdAxyhNsJvsGiCaKz
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 5f0d1b7518f6af4440e472de4385ab22
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: halimacc
 
 # Disqus
 #disqus_shortname:
@@ -181,7 +181,7 @@ mathjax:
 
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-72328428-1
 
 
 # Make duoshuo show UA
