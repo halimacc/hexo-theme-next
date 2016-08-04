@@ -59,8 +59,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 
 
@@ -239,7 +239,7 @@ mathjax:
 
 
 # Swiftype Search API Key
-swiftype_key: nJthdAxyhNsJvsGiCaKz
+swiftype_key: 
 
 # Baidu Analytics ID
 baidu_analytics: 5f0d1b7518f6af4440e472de4385ab22
