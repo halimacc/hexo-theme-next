@@ -245,10 +245,10 @@ swiftype_key:
 baidu_analytics: 5f0d1b7518f6af4440e472de4385ab22
 
 # Duoshuo ShortName
-duoshuo_shortname: halimacc
+#duoshuo_shortname: halimacc
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: loap
 
 # Baidu Share
 # Available value:
